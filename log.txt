@@ -1,0 +1,9 @@
+----------- UTHSB MPtool Lite [v1.13.5.1210] 2024 01 26 09:53 -----------
+
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[CRITICAL]SptiUpdate_p::get_fwsig_from_bin(120) ios_base::failbit set: iostream stream error
+
